@@ -1,2 +1,2 @@
 # zamiatin-web
-deply
+deploy
